@@ -101,7 +101,15 @@ The program successfully:
 - Displays both outputs on the console.
 
 ---
+## Output Screenshots
 
+### Encryption Output
+
+![Encryption Output](encryption-output.png)
+
+### Decryption Output
+
+![Decryption Output](decryption-output.png)
 ## Author
 
 **Niharika M**
