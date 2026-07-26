@@ -103,13 +103,11 @@ The program successfully:
 ---
 ## Output Screenshots
 
-### Encryption Output
+### Encryption & Decryption Output
 
-![Encryption Output](encryption-output.png)
+![Output 1](Output/Screenshot%202026-07-26%20125321.png)
 
-### Decryption Output
-
-![Decryption Output](decryption-output.png)
+![Output 2](Output/Screenshot%202026-07-26%20125420.png)
 ## Author
 
 **Niharika M**
